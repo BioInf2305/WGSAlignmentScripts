@@ -1,0 +1,3 @@
+/home/maulik/data/Shared/m.dinkel/mtDnaAssembly ##path to the fastq files
+/home/maulik/data/Shared/References/Oar_v4.0/GCF_000298735.2_Oar_v4.0_genomic.fna ##reference to be used for alignment
+ERR332573_pass_1.fastq.gz ERR332573_pass_2.fastq.gz ##compressed fastq file
