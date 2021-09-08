@@ -1,2 +1,2 @@
-# CattleCnv
-This repository contains all the codes for cattle cnv project.
+# AlignmentScripts
+This repository contains all the codes to carry out whole genome sequencing alignment
